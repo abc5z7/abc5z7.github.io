@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Chase Woo</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://blog.chaseai.de/</id>
+  <link href="https://blog.chaseai.de/" rel="alternate"/>
+  <link href="https://blog.chaseai.de/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Chase Woo</rights>
+  <subtitle>大繁至简，极境至臻</subtitle>
+  <title>Chase的博客</title>
+  <updated>2026-08-12T14:56:40.360Z</updated>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <id>https://blog.chaseai.de/2026/08/12/%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%B3%A8%E5%85%A5%E6%94%BB%E5%87%BB%E7%9A%84%E9%98%B2%E5%BE%A1/</id>
+    <link href="https://blog.chaseai.de/2026/08/12/%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%B3%A8%E5%85%A5%E6%94%BB%E5%87%BB%E7%9A%84%E9%98%B2%E5%BE%A1/"/>
+    <published>2026-08-12T14:38:38.000Z</published>
+    <summary>从多个方面防御提示词注入攻击，也是 Harness 的一部分</summary>
+    <title>提示词注入攻击的防御</title>
+    <updated>2026-08-12T14:56:40.360Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="随便写写" scheme="https://blog.chaseai.de/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    <category term="vps" scheme="https://blog.chaseai.de/tags/vps/"/>
+    <id>https://blog.chaseai.de/2026/08/10/%E8%AE%B0%E5%BD%95%E5%A4%9A%E5%8F%B0%E5%B0%8F%E9%B8%A1%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6%EF%BC%88%E7%A1%AE%E8%AE%A4%E5%93%AA%E5%90%92%E9%9D%A2%E6%9D%BF%E4%B8%AD%E6%AF%92%EF%BC%89/</id>
+    <link href="https://blog.chaseai.de/2026/08/10/%E8%AE%B0%E5%BD%95%E5%A4%9A%E5%8F%B0%E5%B0%8F%E9%B8%A1%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6%EF%BC%88%E7%A1%AE%E8%AE%A4%E5%93%AA%E5%90%92%E9%9D%A2%E6%9D%BF%E4%B8%AD%E6%AF%92%EF%BC%89/"/>
+    <published>2026-08-10T13:20:50.000Z</published>
+    <summary>
+      <![CDATA[<blockquote>
+<p>记录一下发现病毒并解决的过程</p>
+</blockquote>
+<h2 id="一个坏消息"><a href="#一个坏消息" class="headerlink" title="一个坏消息"></a>一个坏消息</h2><p>这天发现 cpa]]>
+    </summary>
+    <title>记录多台小鸡中毒事件（确认哪吒面板中毒）</title>
+    <updated>2026-08-10T13:26:14.380Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="随便写写" scheme="https://blog.chaseai.de/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    <category term="鸡汤" scheme="https://blog.chaseai.de/tags/%E9%B8%A1%E6%B1%A4/"/>
+    <id>https://blog.chaseai.de/2026/08/02/%E4%BF%9D%E8%AF%81%E7%9D%A1%E7%9C%A0%E6%8F%90%E9%AB%98%E7%94%9F%E6%B4%BB%E8%B4%A8%E9%87%8F/</id>
+    <link href="https://blog.chaseai.de/2026/08/02/%E4%BF%9D%E8%AF%81%E7%9D%A1%E7%9C%A0%E6%8F%90%E9%AB%98%E7%94%9F%E6%B4%BB%E8%B4%A8%E9%87%8F/"/>
+    <published>2026-08-02T11:48:59.000Z</published>
+    <summary>这篇博客可以让你调整入睡“姿势”，从而获得更好的睡眠质量</summary>
+    <title>保证睡眠提高生活质量</title>
+    <updated>2026-08-10T13:23:05.703Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <id>https://blog.chaseai.de/2026/08/02/RAG%E6%9F%A5%E8%AF%A2%E6%94%B9%E5%86%99/</id>
+    <link href="https://blog.chaseai.de/2026/08/02/RAG%E6%9F%A5%E8%AF%A2%E6%94%B9%E5%86%99/"/>
+    <published>2026-08-02T09:04:50.000Z</published>
+    <summary>如何将用户的问题改为更加贴切向量的搜索？</summary>
+    <title>RAG查询改写</title>
+    <updated>2026-08-02T12:17:21.994Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <id>https://blog.chaseai.de/2026/08/02/Harness-Engineering-for-Self-Improvement%E7%BF%81%E8%8D%94%E5%8D%9A%E5%AE%A2%E9%98%85%E8%AF%BB/</id>
+    <link href="https://blog.chaseai.de/2026/08/02/Harness-Engineering-for-Self-Improvement%E7%BF%81%E8%8D%94%E5%8D%9A%E5%AE%A2%E9%98%85%E8%AF%BB/"/>
+    <published>2026-08-02T08:48:00.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="改进模型之外：把智能体-Harness-做成可验证的自演化系统"><a href="#改进模型之外：把智能体-Harness-做成可验证的自演化系统" class="headerlink" title="改进模型之外：把智能体 Harness 做成可验证的自演化系]]>
+    </summary>
+    <title>Harness-Engineering-for-Self-Improvement翁荔博客阅读</title>
+    <updated>2026-08-02T09:28:00.580Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <id>https://blog.chaseai.de/2026/07/20/KimiDeltaAttention-KDA-%E8%AF%A6%E8%A7%A3/</id>
+    <link href="https://blog.chaseai.de/2026/07/20/KimiDeltaAttention-KDA-%E8%AF%A6%E8%A7%A3/"/>
+    <published>2026-07-20T12:19:59.000Z</published>
+    <summary>
+      <![CDATA[<p>现在模型推理的瓶颈正在逐渐从模型能不能回答转向 <strong>模型能不能以足够低的成本持续回答</strong> ，Kimi 团队据此提出 <strong>Kimi Linear</strong>。它并没有完全抛弃全注意力，而是将新的线性注意力模块 <strong>Kim]]>
+    </summary>
+    <title>Kimi Delta Attention (KDA) 详解</title>
+    <updated>2026-07-31T06:52:10.465Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <id>https://blog.chaseai.de/2026/05/08/vLLM%EF%BC%9AKV-Cache%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/</id>
+    <link href="https://blog.chaseai.de/2026/05/08/vLLM%EF%BC%9AKV-Cache%E6%8A%80%E6%9C%AF%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/"/>
+    <published>2026-05-08T08:54:43.000Z</published>
+    <summary>
+      <![CDATA[<p>在使用 vLLM 等框架部署大模型时，总有一个技术概念逃不掉：KV Cache。在 vLLM 等高性能推理框架中，KV Cache 是加速大模型推理、提升吞吐量的核心机制。</p>
+<p>用一句话总结KV Cache就是：<strong>在处理生成请求时，缓存并复用之前 T]]>
+    </summary>
+    <title>vLLM：KV Cache技术原理解析</title>
+    <updated>2026-05-08T09:01:08.248Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <id>https://blog.chaseai.de/2026/05/01/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A6%82%E4%BD%95%E7%BB%93%E6%9E%84%E5%8C%96%E8%BE%93%E5%87%BAJSON/</id>
+    <link href="https://blog.chaseai.de/2026/05/01/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A6%82%E4%BD%95%E7%BB%93%E6%9E%84%E5%8C%96%E8%BE%93%E5%87%BAJSON/"/>
+    <published>2026-04-30T16:08:05.000Z</published>
+    <summary>
+      <![CDATA[<p>大模型在生成结构化数据方面表现很好，但在实践中我发现了一个高频且隐蔽的陷阱：当要求大模型按指定 JSON格式输出时，如果某个字段的值中恰好包含英文双引号，整个 JSON 就会因语法错误而解析失败。</p>
+<figure class="highlight json"><ta]]>
+    </summary>
+    <title>大模型如何结构化输出JSON</title>
+    <updated>2026-07-25T07:28:53.913Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <category term="Agent" scheme="https://blog.chaseai.de/tags/Agent/"/>
+    <id>https://blog.chaseai.de/2026/04/28/Human-In-The-Loop%E6%A6%82%E8%BF%B0/</id>
+    <link href="https://blog.chaseai.de/2026/04/28/Human-In-The-Loop%E6%A6%82%E8%BF%B0/"/>
+    <published>2026-04-28T09:17:08.000Z</published>
+    <summary>在 Agent 的语境下，人在回路的本质是“控制权的动态交接”</summary>
+    <title>Human-In-The-Loop概述</title>
+    <updated>2026-07-16T05:52:10.813Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <category term="Agent" scheme="https://blog.chaseai.de/tags/Agent/"/>
+    <id>https://blog.chaseai.de/2026/04/23/Hermes-Agent%EF%BC%9A%E8%87%AA%E8%BF%9B%E5%8C%96%E7%9A%84AI%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88%E6%A6%82%E8%BF%B0%EF%BC%89/</id>
+    <link href="https://blog.chaseai.de/2026/04/23/Hermes-Agent%EF%BC%9A%E8%87%AA%E8%BF%9B%E5%8C%96%E7%9A%84AI%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%88%E6%A6%82%E8%BF%B0%EF%BC%89/"/>
+    <published>2026-04-23T13:07:12.000Z</published>
+    <summary>The agent that grows with you</summary>
+    <title>Hermes Agent：自进化的AI智能体（概述）</title>
+    <updated>2026-07-31T06:52:17.726Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <category term="Agent" scheme="https://blog.chaseai.de/tags/Agent/"/>
+    <id>https://blog.chaseai.de/2026/04/21/Superpowers%E6%A1%86%E6%9E%B6%E8%A7%A3%E6%9E%90/</id>
+    <link href="https://blog.chaseai.de/2026/04/21/Superpowers%E6%A1%86%E6%9E%B6%E8%A7%A3%E6%9E%90/"/>
+    <published>2026-04-21T06:36:13.000Z</published>
+    <summary>Superpowers 框架介绍</summary>
+    <title>Superpowers框架解析</title>
+    <updated>2026-07-25T07:35:19.475Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <category term="LoRA" scheme="https://blog.chaseai.de/tags/LoRA/"/>
+    <id>https://blog.chaseai.de/2026/04/17/%E5%BE%AE%E8%B0%83qwen2-5-vl%E7%9A%84%E8%B8%A9%E5%9D%91%E5%AE%9E%E5%BD%95/</id>
+    <link href="https://blog.chaseai.de/2026/04/17/%E5%BE%AE%E8%B0%83qwen2-5-vl%E7%9A%84%E8%B8%A9%E5%9D%91%E5%AE%9E%E5%BD%95/"/>
+    <published>2026-04-17T06:44:54.000Z</published>
+    <summary>微调qwen2.5-vl-3b的过程中发现很多坑，包括数据集构建、标注、训练</summary>
+    <title>微调qwen2.5-vl的踩坑实录</title>
+    <updated>2026-07-25T07:36:15.677Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <category term="Agent" scheme="https://blog.chaseai.de/tags/Agent/"/>
+    <id>https://blog.chaseai.de/2026/04/16/Ralph-Loop%E6%A6%82%E8%BF%B0/</id>
+    <link href="https://blog.chaseai.de/2026/04/16/Ralph-Loop%E6%A6%82%E8%BF%B0/"/>
+    <published>2026-04-16T15:08:09.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="Ralph-Loop：用迭代破解-Agent"><a href="#Ralph-Loop：用迭代破解-Agent" class="headerlink" title="Ralph Loop：用迭代破解 Agent"></a>Ralph Loop：用迭代破解 Age]]>
+    </summary>
+    <title>Ralph-Loop概述</title>
+    <updated>2026-07-25T08:26:44.238Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <category term="Agent" scheme="https://blog.chaseai.de/tags/Agent/"/>
+    <id>https://blog.chaseai.de/2026/03/08/ReAct%E6%99%BA%E8%83%BD%E4%BD%93/</id>
+    <link href="https://blog.chaseai.de/2026/03/08/ReAct%E6%99%BA%E8%83%BD%E4%BD%93/"/>
+    <published>2026-03-08T03:23:44.000Z</published>
+    <summary>ReAct范式将推理和行动结合到一起，赋予LLM智能体的能力</summary>
+    <title>ReAct Agent 范式</title>
+    <updated>2026-04-16T14:05:18.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="终端" scheme="https://blog.chaseai.de/tags/%E7%BB%88%E7%AB%AF/"/>
+    <category term="ClaudeCode" scheme="https://blog.chaseai.de/tags/ClaudeCode/"/>
+    <category term="工具" scheme="https://blog.chaseai.de/tags/%E5%B7%A5%E5%85%B7/"/>
+    <id>https://blog.chaseai.de/2026/02/04/kimi-code%E6%8E%A5%E5%85%A5claude-code/</id>
+    <link href="https://blog.chaseai.de/2026/02/04/kimi-code%E6%8E%A5%E5%85%A5claude-code/"/>
+    <published>2026-02-04T14:10:52.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="kimi-code接入claude-code"><a href="#kimi-code接入claude-code" class="headerlink" title="kimi code接入claude code"></a>kimi code接入claude co]]>
+    </summary>
+    <title>kimi-code接入claude-code</title>
+    <updated>2026-05-08T09:03:56.501Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <id>https://blog.chaseai.de/2026/01/31/temperature%E4%B8%BA0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%BE%93%E5%87%BA%E4%B8%8D%E5%90%8C%E7%9A%84%E7%BB%93%E6%9E%9C/</id>
+    <link href="https://blog.chaseai.de/2026/01/31/temperature%E4%B8%BA0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%BE%93%E5%87%BA%E4%B8%8D%E5%90%8C%E7%9A%84%E7%BB%93%E6%9E%9C/"/>
+    <published>2026-01-31T06:08:30.000Z</published>
+    <summary>大模型的输出为何不同</summary>
+    <title>temperature为0为什么会输出不同的结果</title>
+    <updated>2026-07-25T08:57:46.389Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <id>https://blog.chaseai.de/2025/12/25/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2qwen2-5-omni/</id>
+    <link href="https://blog.chaseai.de/2025/12/25/%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2qwen2-5-omni/"/>
+    <published>2025-12-25T14:23:53.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="本地部署-Qwen2-5-Omni"><a href="#本地部署-Qwen2-5-Omni" class="headerlink" title="本地部署 Qwen2.5-Omni"></a>本地部署 Qwen2.5-Omni</h1><p>qwen2.5-om]]>
+    </summary>
+    <title>本地部署qwen2.5-omni</title>
+    <updated>2026-05-08T09:04:22.390Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <id>https://blog.chaseai.de/2025/12/22/label-studio%E5%AF%BC%E5%85%A5%E6%A0%87%E6%B3%A8/</id>
+    <link href="https://blog.chaseai.de/2025/12/22/label-studio%E5%AF%BC%E5%85%A5%E6%A0%87%E6%B3%A8/"/>
+    <published>2025-12-22T02:52:42.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="label-studio导入标注"><a href="#label-studio导入标注" class="headerlink" title="label studio导入标注"></a>label studio导入标注</h1><p>通过一个json文件，在la]]>
+    </summary>
+    <title>label-studio导入标注</title>
+    <updated>2026-05-08T09:01:50.877Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="生活日常" scheme="https://blog.chaseai.de/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/"/>
+    <category term="手作" scheme="https://blog.chaseai.de/tags/%E6%89%8B%E4%BD%9C/"/>
+    <id>https://blog.chaseai.de/2025/12/15/%E4%BA%B2%E6%89%8B%E5%81%9A%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%B0%B8%E7%94%9F%E8%8A%B1/</id>
+    <link href="https://blog.chaseai.de/2025/12/15/%E4%BA%B2%E6%89%8B%E5%81%9A%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%B0%B8%E7%94%9F%E8%8A%B1/"/>
+    <published>2025-12-15T14:30:45.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="泡泡玛特永生花"><a href="#泡泡玛特永生花" class="headerlink" title="泡泡玛特永生花"></a>泡泡玛特永生花</h1><p>圣诞节快到了，还在发愁送给喜欢的人什么礼物？不如试试亲自做一个泡泡玛特永生花：</p>
+<img s]]>
+    </summary>
+    <title>亲手做泡泡玛特永生花</title>
+    <updated>2026-04-16T14:08:32.758Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Chase Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <id>https://blog.chaseai.de/2025/12/13/%E5%AE%89%E8%A3%85kimi-audio_docker/</id>
+    <link href="https://blog.chaseai.de/2025/12/13/%E5%AE%89%E8%A3%85kimi-audio_docker/"/>
+    <published>2025-12-13T15:15:00.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="安装Kimi-Audio-docker镜像"><a href="#安装Kimi-Audio-docker镜像" class="headerlink" title="安装Kimi-Audio docker镜像"></a>安装Kimi-Audio docker镜像</]]>
+    </summary>
+    <title>安装Kimi-Audio docker镜像</title>
+    <updated>2026-05-08T09:04:29.324Z</updated>
+  </entry>
+</feed>
