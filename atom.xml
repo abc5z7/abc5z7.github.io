@@ -10,7 +10,20 @@
   <rights>All rights reserved 2026, Bryce Woo</rights>
   <subtitle>大繁至简，极境至臻</subtitle>
   <title>Bryce的博客</title>
-  <updated>2026-08-12T14:56:40.360Z</updated>
+  <updated>2026-09-07T11:33:23.308Z</updated>
+  <entry>
+    <author>
+      <name>Bryce Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <id>https://blog.chaseai.de/2026/09/07/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84%E9%9A%BE%E7%82%B9%E5%9C%A8%E5%8D%8F%E8%B0%83%E8%BE%B9%E7%95%8C/</id>
+    <link href="https://blog.chaseai.de/2026/09/07/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84%E9%9A%BE%E7%82%B9%E5%9C%A8%E5%8D%8F%E8%B0%83%E8%BE%B9%E7%95%8C/"/>
+    <published>2026-09-07T11:09:03.000Z</published>
+    <summary>Multi-Agent 并不等于简单地启动更多 Agent，而在于整个 System。</summary>
+    <title>多智能体的难点在协调边界</title>
+    <updated>2026-09-07T11:33:23.308Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Bryce Woo</name>
@@ -290,20 +303,5 @@
     </summary>
     <title>亲手做泡泡玛特永生花</title>
     <updated>2026-04-16T14:08:32.758Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Bryce Woo</name>
-    </author>
-    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
-    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
-    <id>https://blog.chaseai.de/2025/12/13/%E5%AE%89%E8%A3%85kimi-audio_docker/</id>
-    <link href="https://blog.chaseai.de/2025/12/13/%E5%AE%89%E8%A3%85kimi-audio_docker/"/>
-    <published>2025-12-13T15:15:00.000Z</published>
-    <summary>
-      <![CDATA[<h1 id="安装Kimi-Audio-docker镜像"><a href="#安装Kimi-Audio-docker镜像" class="headerlink" title="安装Kimi-Audio docker镜像"></a>安装Kimi-Audio docker镜像</]]>
-    </summary>
-    <title>安装Kimi-Audio docker镜像</title>
-    <updated>2026-05-08T09:04:29.324Z</updated>
   </entry>
 </feed>
