@@ -10,19 +10,34 @@
   <rights>All rights reserved 2026, Bryce Woo</rights>
   <subtitle>大繁至简，极境至臻</subtitle>
   <title>Bryce的博客</title>
-  <updated>2026-09-07T11:33:23.308Z</updated>
+  <updated>2026-09-09T09:53:04.645Z</updated>
   <entry>
     <author>
       <name>Bryce Woo</name>
     </author>
     <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
     <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <category term="文章阅读" scheme="https://blog.chaseai.de/tags/%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB/"/>
+    <id>https://blog.chaseai.de/2026/09/09/DeepseekV4%E8%AE%BA%E6%96%87%E8%A7%A3%E6%9E%90/</id>
+    <link href="https://blog.chaseai.de/2026/09/09/DeepseekV4%E8%AE%BA%E6%96%87%E8%A7%A3%E6%9E%90/"/>
+    <published>2026-09-09T09:40:43.000Z</published>
+    <summary>把 1M 上下文变成工程能力：拆解 DeepSeek-V4 的混合压缩注意力</summary>
+    <title>DeepseekV4论文解析</title>
+    <updated>2026-09-09T09:53:04.645Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Bryce Woo</name>
+    </author>
+    <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
+    <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <category term="文章阅读" scheme="https://blog.chaseai.de/tags/%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB/"/>
     <id>https://blog.chaseai.de/2026/09/07/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84%E9%9A%BE%E7%82%B9%E5%9C%A8%E5%8D%8F%E8%B0%83%E8%BE%B9%E7%95%8C/</id>
     <link href="https://blog.chaseai.de/2026/09/07/%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84%E9%9A%BE%E7%82%B9%E5%9C%A8%E5%8D%8F%E8%B0%83%E8%BE%B9%E7%95%8C/"/>
     <published>2026-09-07T11:09:03.000Z</published>
     <summary>Multi-Agent 并不等于简单地启动更多 Agent，而在于整个 System。</summary>
     <title>多智能体的难点在协调边界</title>
-    <updated>2026-09-07T11:33:23.308Z</updated>
+    <updated>2026-09-09T09:53:37.600Z</updated>
   </entry>
   <entry>
     <author>
@@ -87,6 +102,7 @@
     </author>
     <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
     <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <category term="文章阅读" scheme="https://blog.chaseai.de/tags/%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB/"/>
     <id>https://blog.chaseai.de/2026/08/02/Harness-Engineering-for-Self-Improvement%E7%BF%81%E8%8D%94%E5%8D%9A%E5%AE%A2%E9%98%85%E8%AF%BB/</id>
     <link href="https://blog.chaseai.de/2026/08/02/Harness-Engineering-for-Self-Improvement%E7%BF%81%E8%8D%94%E5%8D%9A%E5%AE%A2%E9%98%85%E8%AF%BB/"/>
     <published>2026-08-02T08:48:00.000Z</published>
@@ -94,7 +110,7 @@
       <![CDATA[<h1 id="改进模型之外：把智能体-Harness-做成可验证的自演化系统"><a href="#改进模型之外：把智能体-Harness-做成可验证的自演化系统" class="headerlink" title="改进模型之外：把智能体 Harness 做成可验证的自演化系]]>
     </summary>
     <title>Harness-Engineering-for-Self-Improvement翁荔博客阅读</title>
-    <updated>2026-08-02T09:28:00.580Z</updated>
+    <updated>2026-09-09T09:53:15.794Z</updated>
   </entry>
   <entry>
     <author>
@@ -102,6 +118,7 @@
     </author>
     <category term="技术人生" scheme="https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/"/>
     <category term="LLM" scheme="https://blog.chaseai.de/tags/LLM/"/>
+    <category term="文章阅读" scheme="https://blog.chaseai.de/tags/%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB/"/>
     <id>https://blog.chaseai.de/2026/07/20/KimiDeltaAttention-KDA-%E8%AF%A6%E8%A7%A3/</id>
     <link href="https://blog.chaseai.de/2026/07/20/KimiDeltaAttention-KDA-%E8%AF%A6%E8%A7%A3/"/>
     <published>2026-07-20T12:19:59.000Z</published>
@@ -109,7 +126,7 @@
       <![CDATA[<p>现在模型推理的瓶颈正在逐渐从模型能不能回答转向 <strong>模型能不能以足够低的成本持续回答</strong> ，Kimi 团队据此提出 <strong>Kimi Linear</strong>。它并没有完全抛弃全注意力，而是将新的线性注意力模块 <strong>Kim]]>
     </summary>
     <title>Kimi Delta Attention (KDA) 详解</title>
-    <updated>2026-07-31T06:52:10.465Z</updated>
+    <updated>2026-09-09T09:54:01.384Z</updated>
   </entry>
   <entry>
     <author>
@@ -287,21 +304,5 @@
     </summary>
     <title>label-studio导入标注</title>
     <updated>2026-05-08T09:01:50.877Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Bryce Woo</name>
-    </author>
-    <category term="生活日常" scheme="https://blog.chaseai.de/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/"/>
-    <category term="手作" scheme="https://blog.chaseai.de/tags/%E6%89%8B%E4%BD%9C/"/>
-    <id>https://blog.chaseai.de/2025/12/15/%E4%BA%B2%E6%89%8B%E5%81%9A%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%B0%B8%E7%94%9F%E8%8A%B1/</id>
-    <link href="https://blog.chaseai.de/2025/12/15/%E4%BA%B2%E6%89%8B%E5%81%9A%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%B0%B8%E7%94%9F%E8%8A%B1/"/>
-    <published>2025-12-15T14:30:45.000Z</published>
-    <summary>
-      <![CDATA[<h1 id="泡泡玛特永生花"><a href="#泡泡玛特永生花" class="headerlink" title="泡泡玛特永生花"></a>泡泡玛特永生花</h1><p>圣诞节快到了，还在发愁送给喜欢的人什么礼物？不如试试亲自做一个泡泡玛特永生花：</p>
-<img s]]>
-    </summary>
-    <title>亲手做泡泡玛特永生花</title>
-    <updated>2026-04-16T14:08:32.758Z</updated>
   </entry>
 </feed>
