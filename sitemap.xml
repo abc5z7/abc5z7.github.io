@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://blog.chaseai.de/coffee/</loc>
+    <loc>https://blog.chaseai.de/magic/</loc>
     
     <lastmod>2025-04-13</lastmod>
     
@@ -290,7 +290,7 @@
   </url>
   
   <url>
-    <loc>https://blog.chaseai.de/magic/</loc>
+    <loc>https://blog.chaseai.de/coffee/</loc>
     
     <lastmod>2025-04-13</lastmod>
     
@@ -373,7 +373,7 @@
 
   <url>
     <loc>https://blog.chaseai.de/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -381,91 +381,91 @@
   
   <url>
     <loc>https://blog.chaseai.de/tags/LLM/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/Agent/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/%E7%BB%88%E7%AB%AF/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/ClaudeCode/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/Pycharm/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/%E6%89%8B%E4%BD%9C/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/%E9%B8%A1%E6%B1%A4/</loc>
-    <lastmod>2026-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.chaseai.de/tags/LoRA/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/ohmyzsh/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/MacOS/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.chaseai.de/tags/LoRA/</loc>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/tags/vps/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -474,21 +474,21 @@
   
   <url>
     <loc>https://blog.chaseai.de/categories/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.chaseai.de/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
